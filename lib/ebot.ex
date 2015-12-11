@@ -1,0 +1,2 @@
+defmodule Ebot do
+end
